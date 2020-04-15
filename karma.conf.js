@@ -1,4 +1,5 @@
 // Note some browser launchers should be installed before using karma start.
+/*做一个小的测试！！！！*/
 
 // For example:
 //      $ npm install karma-firefox-launcher
