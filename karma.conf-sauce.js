@@ -1,3 +1,7 @@
+/*
+
+  这个框架有点小问题， just a test!
+*/
 var _ = require('./');
 
 // Browsers to run on Sauce Labs platforms
